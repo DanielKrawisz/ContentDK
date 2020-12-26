@@ -1,4 +1,4 @@
-# Bitcoin's Compound Rewards.
+# Bitcoin's Compound Rewards
 
 _Daniel Krawisz_
 
